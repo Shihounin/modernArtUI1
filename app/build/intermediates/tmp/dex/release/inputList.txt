@@ -1,0 +1,2 @@
+C:\development_android\modernArtUI1\app\build\intermediates\classes\release
+C:\development_android\modernArtUI1\app\build\intermediates\pre-dexed\release\support-v4-19.1.0-839e771f8a0ca9206f55ff2bba7c263bb341adcc.jar

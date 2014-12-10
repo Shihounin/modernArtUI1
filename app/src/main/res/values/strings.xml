@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">modernArtUI</string>
+    <string name="action_settings">More Information</string>
+	<string name="dialog">Inspired by the works of artists such as
+						Piet Mondrian and Ben Nicholson.\n\n
+						Click below to learn more!</string>
+</resources>
